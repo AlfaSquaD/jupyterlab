@@ -31,7 +31,6 @@ RUN mamba install --quiet -y \
     #   ipywidgets \
     #   jupyter_bokeh \
     #   jupyterlab-drawio \
-      rise \
       nb_conda_kernels \
       'jupyter-server-proxy>=3.1.0'
     # mamba install -y -c plotly 'plotly>=4.8.2'
